@@ -9,6 +9,6 @@ Vue.createApp({
             exemple: 'Texte exemple depuis Vue JS'
         };
     }
-}).mount('#app');
+}).mount('body');
 
 alert('Fin index.js !!');
