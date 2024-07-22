@@ -1,0 +1,26 @@
+body {
+    height: 100% !important;
+}
+.bg-sombre {
+    color: white;
+    background-color: #343434;
+}
+
+.fw-900 {
+    font-weight: 900;
+}
+
+.bouton {
+    text-decoration: none;
+    font-weight: 900;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 22px;
+}
+.bouton-clair {
+    color: #000000;
+    background-color: #d9d9d9;
+}
+.bouton-clair:hover {
+    background-color: #adadad;
+}
