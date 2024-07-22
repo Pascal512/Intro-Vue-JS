@@ -5,6 +5,10 @@ body {
     color: white;
     background-color: #343434;
 }
+.bg-clair {
+    color: black;
+    background-color: white;
+}
 
 .fw-900 {
     font-weight: 900;
@@ -23,4 +27,14 @@ body {
 }
 .bouton-clair:hover {
     background-color: #adadad;
+}
+
+#btn-switch-mode {
+    cursor: pointer;
+    bottom: 40px;
+    right: 40px;
+}
+#btn-switch-mode > svg {
+    width: 40px;
+    height: 40px;
 }
