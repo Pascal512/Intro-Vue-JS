@@ -1,5 +1,3 @@
-alert('Debut index.js !!');
-
 const { createApp } = Vue;
 
 Vue.createApp({
@@ -10,5 +8,3 @@ Vue.createApp({
         };
     }
 }).mount('body');
-
-alert('Fin index.js !!');
